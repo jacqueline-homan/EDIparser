@@ -1,0 +1,7 @@
+/home/jacque/Projects/F-sharp/EDIparser/EDIparser/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/home/jacque/Projects/F-sharp/EDIparser/EDIparser/bin/Debug/EDIparser.exe.mdb
+/home/jacque/Projects/F-sharp/EDIparser/EDIparser/bin/Debug/EDIparser.exe
+/home/jacque/Projects/F-sharp/EDIparser/EDIparser/obj/x86/Debug/EDIparser.exe
+/home/jacque/Projects/F-sharp/EDIparser/EDIparser/obj/x86/Debug/EDIparser.exe.mdb
+/home/jacque/Projects/F-sharp/EDIparser/EDIparser/bin/Debug/FParsec.dll
+/home/jacque/Projects/F-sharp/EDIparser/EDIparser/bin/Debug/FParsecCS.dll
