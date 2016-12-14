@@ -2,3 +2,8 @@
 /home/evan/Documents/Coding/Jacquehammer/EDIparser/obj/x86/Debug/sample.edi
 /home/evan/Documents/Coding/Jacquehammer/EDIparser/bin/Debug/FParsec.dll
 /home/evan/Documents/Coding/Jacquehammer/EDIparser/bin/Debug/FParsecCS.dll
+/home/evan/Documents/Coding/Jacquehammer/EDIparser/bin/Debug/sample.edi
+/home/evan/Documents/Coding/Jacquehammer/EDIparser/bin/Debug/EDIparser.exe.mdb
+/home/evan/Documents/Coding/Jacquehammer/EDIparser/bin/Debug/EDIparser.exe
+/home/evan/Documents/Coding/Jacquehammer/EDIparser/obj/x86/Debug/EDIparser.exe
+/home/evan/Documents/Coding/Jacquehammer/EDIparser/obj/x86/Debug/EDIparser.exe.mdb
