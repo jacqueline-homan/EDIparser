@@ -59,6 +59,7 @@
   <ItemGroup>
     <None Include="packages.config" />
     <None Include="TestCode.fsx" />
+    <None Include="Script.fsx" />
   </ItemGroup>
   <Import Project="$(FSharpTargetsPath)" />
   <ItemGroup>

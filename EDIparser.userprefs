@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{3B30CA04-2C79-42E4-9DE2-D7ABD5F7FC3E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sample.edi">
+    <Files>
+      <File FileName="Program.fs" Line="10" Column="16" />
+      <File FileName="SyntaxP.fs" Line="41" Column="17" />
+      <File FileName="Script.fsx" Line="76" Column="3" />
+      <File FileName="sample.edi" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EDIparser PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -32,6 +32,9 @@ type Parser<'t> = Parser<'t, unit>
 // The field separator
 let pFSep : Parser<_> = skipChar '*'
 
+// The record delimiter
+let pRSep : Parser<_> = skipChar '~'
+
 // The Authorization Qualifier
 type AuthQual = AQNone
 
@@ -58,6 +61,8 @@ type ISA =
 
 let pISARec : Parser<_> = skipString "ISA" >>. pFSep
 let pISA : Parser<ISA> = pISARec >>. pAuth |>> ISA
+
+
 
 let test p str = 
     match run p str with
